@@ -1,0 +1,11 @@
+Burger
+Pizza
+Taco
+Pasta
+Cake
+Chicken
+Soda
+Pie
+Rice
+Pudding
+Muffin
